@@ -1,0 +1,14 @@
+{
+    "name": "kamil-laptop/gtfs-php-parser",
+    "description": "GTFS data parser for PHP",
+    "type": "project",
+    "require": {
+        "google/gtfs-realtime-bindings": "^0.0.2"
+    },
+    "authors": [
+        {
+            "name": "Kamil Makosa",
+            "email": "kammakosa@gmail.com"
+        }
+    ]
+}
